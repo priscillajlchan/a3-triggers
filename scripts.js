@@ -1,7 +1,7 @@
 // It worked! 
 
 $(document).ready(function() {
-	$("#vacations > li:even").text("Vancouver,BC!!");
+	$("#vacations > li:odd").text("Vancouver,BC!!");
 });
 
 // just a side note :D
